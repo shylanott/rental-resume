@@ -1,3 +1,16 @@
+# :city_sunset: :page_facing_up: Rental Resume
+
+[Rental Resume](https://rental-resume.com) is a simple [ReactJS](https://github.com/facebook/react) single page application. It was made as a proof of concept by [@chrisheninger](https://github.com/chrisheninger) and [@ryanwiemer](https://github.com/ryanwiemer). My version was inspired by their original work as a foundation to learn React and bootstrapping with the Create React App.  
+
+## Setting up the development environment
+
+- Clone the repo
+- Run `npm install` to install dependencies
+- Run `npm run start` to start local development server
+- Open a browser to http://localhost:3000/ and voilà!
+
+##
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

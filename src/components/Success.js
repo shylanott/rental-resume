@@ -17,13 +17,20 @@ export class Success extends Component {
 
     render() {
         return (
-            <MuiThemeProvider>
-                <React.Fragment>
-                    <AppBar title="Confirm User Data" />
-                    <h1>Thank you for your submission.</h1>
-                    <p>You will get an email with further instructions.</p>
-                </React.Fragment>
-            </MuiThemeProvider>
+            <section className="page">
+                <div className="page__header">
+                    <div className="page__header__container">
+                        <h1 className="page__title">Success</h1>
+                    </div>
+                </div> 
+                <MuiThemeProvider>
+                    <React.Fragment>
+                        {/* <AppBar title="Confirm User Data" /> */}
+                        <h1>Thank you for your submission.</h1>
+                        {/* <p>You will get an email with further instructions.</p> */}
+                    </React.Fragment>
+                </MuiThemeProvider>
+            </section>
         );
     }
 }
