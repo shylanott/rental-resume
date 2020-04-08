@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rental-resume/static/css/main.88a0d4e4.chunk.css",
+    "main.js": "/rental-resume/static/js/main.63e271d8.chunk.js",
+    "main.js.map": "/rental-resume/static/js/main.63e271d8.chunk.js.map",
+    "runtime-main.js": "/rental-resume/static/js/runtime-main.05970580.js",
+    "runtime-main.js.map": "/rental-resume/static/js/runtime-main.05970580.js.map",
+    "static/js/2.de780b4e.chunk.js": "/rental-resume/static/js/2.de780b4e.chunk.js",
+    "static/js/2.de780b4e.chunk.js.map": "/rental-resume/static/js/2.de780b4e.chunk.js.map",
+    "index.html": "/rental-resume/index.html",
+    "precache-manifest.57e9c3858e4012313a717632b46df6aa.js": "/rental-resume/precache-manifest.57e9c3858e4012313a717632b46df6aa.js",
+    "service-worker.js": "/rental-resume/service-worker.js",
+    "static/css/main.88a0d4e4.chunk.css.map": "/rental-resume/static/css/main.88a0d4e4.chunk.css.map",
+    "static/js/2.de780b4e.chunk.js.LICENSE.txt": "/rental-resume/static/js/2.de780b4e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/rental-resume/static/media/homepage.61162e79.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05970580.js",
+    "static/js/2.de780b4e.chunk.js",
+    "static/css/main.88a0d4e4.chunk.css",
+    "static/js/main.63e271d8.chunk.js"
+  ]
+}
